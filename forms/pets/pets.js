@@ -3,7 +3,6 @@ let petNames= ['Darcy', 'Jack', 'Jerry', 'Marty', 'Vito', 'Vinny', 'Riley', 'Sad
 
 //used an array method here
 let withMarmaduke= petNames.concat(['Marmaduke'])
-let withMarmaduke= petNames.concat(['Marmaduke'])
 
 let choice= prompt("Please enter 1 to remove Vinny, 2 to remove Marty, 3 to add Nancy, 4 to add their name to the end of the array after they enter their name, etc.")
 switch(true){

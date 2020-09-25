@@ -26,6 +26,14 @@
             "pets",
             "pets.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "switch1",
+            "switch1.json"
+          ]
         }
       ],
       "configxml": null,
